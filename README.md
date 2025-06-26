@@ -1,0 +1,2 @@
+# my-cursor
+Cursor IDE
